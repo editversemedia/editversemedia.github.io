@@ -90,6 +90,7 @@ body {
 
 .logo img {
   height: 35px;
+  pointer-events: none;
 }
 
 .nav-links {
